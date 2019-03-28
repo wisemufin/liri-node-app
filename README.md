@@ -9,6 +9,10 @@
 
 #### Command for Spotify
   node liri.js spotify-this-song <song title>
+  
+  ![Spotify Command](/images/spotify-this-song.PNG)
 
 #### Command for Movies
   node liri.js movie-this
+  
+  ![Movie Commabnd](/images/movie-this.PNG)
