@@ -5,6 +5,7 @@ var keys = require("./keys.js");
 var axios = require("axios");
 var moment = require("moment");
 
+// Takes the artist name
 var artist = process.argv.slice(3).join("+");
 
 axios
